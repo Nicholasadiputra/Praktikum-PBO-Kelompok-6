@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //Melakukan Import Scanner Pada Java
 
 public class App {
     public static void main(String[] args){
