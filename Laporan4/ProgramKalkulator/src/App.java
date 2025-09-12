@@ -60,7 +60,7 @@ public class App {
             
             System.out.println("Apakah Anda ingin menghitung lagi? (y/n)");
             keputusan2 = scanner.next().toLowerCase();
-            if (keputusan2.equalsIgnoreCase("y")) {
+            if (keputusan2.equals("y")) {
                 keputusan = true;
                 System.out.println();
                
