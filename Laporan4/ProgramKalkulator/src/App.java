@@ -2,14 +2,17 @@ import java.util.*;
 
 public class App {
     public static void main(String[] args){
+        // Deklarasi variabel
         Scanner scanner = new Scanner(System.in);
         boolean keputusan = true;
         double sisi, panjang, lebar, jariJari, alas, tinggi, phi;
         int pilihan;
         String keputusan2;
 
+        // Program Dimulai
         System.out.println("--- Selamat Datang di Program Kalkulator Luas Bangun Ruang ---");
-        
+
+        // Inti Program
         while(keputusan){
             System.out.println("Pilih bangun ruang yang ingin dihitung Luasnya:");
             System.out.println("1. Persegi");
@@ -20,6 +23,7 @@ public class App {
             System.out.print("Masukkan pilihan Anda (1-5): ");
             pilihan = scanner.nextInt();
 
+            //Input Data
             switch(pilihan){
                 case 1:
                     System.out.print("Masukkan panjang sisi persegi: ");
