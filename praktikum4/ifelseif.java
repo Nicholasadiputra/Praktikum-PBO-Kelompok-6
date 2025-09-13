@@ -1,0 +1,23 @@
+package praktikum4;
+
+import java.util.Scanner;
+
+public class ifelseif {
+    public static void main(String[] args)
+    {
+        // Input nilai
+        Scanner input =  new Scanner(System.in);
+        System.out.print("Masukan nilai : ");
+        int nilai = input.nextInt();
+
+        // Cek status kelulusan
+        if(nilai>75){
+            System.out.println("Anda lulus ujian");
+        } else if (nilai>65) {
+            System.out.println("Anda lulus ujian dengan peringatan");
+        } else {
+            System.out.println("Anda harus mengulang ujian");
+        }
+        input.close(); // menutup Scanner agar tidak ada memory leak
+    }
+}
