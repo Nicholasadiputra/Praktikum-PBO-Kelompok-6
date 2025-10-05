@@ -1,0 +1,32 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.ifelseif;
+
+/**
+ *
+ * @author user
+ */
+// Import Scanner untuk input
+import java.util.*;
+
+// Class utama
+public class ifelseif {
+    public static void main(String[] args)
+    {
+        // Input nilai
+        Scanner input =  new Scanner(System.in);
+        System.out.print("Masukan nilai : ");
+        int nilai = input.nextInt();
+
+        // Cek status kelulusan
+        if(nilai>75){
+            System.out.println("Anda lulus ujian");
+        } else if (nilai>65) {
+            System.out.println("Anda lulus ujian dengan peringatan");
+        } else {
+            System.out.println("Anda harus mengulang ujian");
+        }
+    }
+}
