@@ -1,0 +1,32 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.main;
+
+/**
+ *
+ * @author user
+ */
+public class Bank {
+    // Atribut static dan private
+    private static String namaBank = "Bank Negara Indonesia";
+    private static String kodeBank = "BU123";
+    private static double sukuBunga = 3.5; // persen per tahun
+
+    // Getter
+    public static String getNamaBank() {
+        return namaBank;
+    }
+
+    public static String getKodeBank() {
+        return kodeBank;
+    }
+
+    public static double getSukuBunga() {
+        return sukuBunga;
+    }
+}
+
+
+ 
