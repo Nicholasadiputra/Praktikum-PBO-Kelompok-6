@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/user/Documents/NetBeansProjects/latihanPrakikum9/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/Documents/NetBeansProjects/latihanPrakikum9/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'latihanPrakikum9 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'latihanPrakikum9 1.0-SNAPSHOT API'
+com.mycompany.latihanprakikum9
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\src\main\java = 1762015679279
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\allclasses-index.html = 1762060944057
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\allpackages-index.html = 1762060944060
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\element-list = 1762060943950
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\help-doc.html = 1762060944083
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\index-all.html = 1762060944075
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\index.html = 1762060944079
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\member-search-index.js = 1762060944065
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\module-search-index.js = 1762060944062
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\overview-tree.html = 1762060944040
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\package-search-index.js = 1762060944063
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\search.html = 1762060944076
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\serialized-form.html = 1762060944007
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\tag-search-index.js = 1762060944066
+C:\Users\user\Documents\NetBeansProjects\latihanPrakikum9\target\reports\apidocs\type-search-index.js = 1762060944064
